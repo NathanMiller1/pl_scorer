@@ -1,0 +1,48 @@
+html, body, div, span, 
+h1, h2, h3, h4, h5, h6, {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+.head {
+  padding: 5px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 80px;
+}
+
+.body {
+  padding: 50px;
+  text-align: center;
+  background: white;
+  color: black;
+  font-size: 60px;
+}
+
+.button {
+  width: 15%;
+  background-color: #909090;
+  border: 1px solid black;
+  border-radius: 20px;
+  color: white;
+  padding: 20px 20px;
+  margin: 20px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.button:hover {
+  background-color: black;
+  color: white;
+}
+
+
+
